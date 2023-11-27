@@ -1,3 +1,5 @@
 Hi,
 
-This is my First text file for GIT
+This is my First text file for GIT.
+
+second line added
