@@ -1,0 +1,3 @@
+Hi,
+
+Thi sis second text file for GIT
