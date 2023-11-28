@@ -1,3 +1,0 @@
-Hi,
-
-Thi is second text file for GIT
